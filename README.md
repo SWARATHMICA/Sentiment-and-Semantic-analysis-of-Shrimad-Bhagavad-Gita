@@ -33,8 +33,11 @@ Collaborate with Sanskrit experts to validate findings.
 Explore preservation of rhythm and rhyme in translations.
 
 # Project Contributors
+
 Swarathmica S 
+
 Sandhya MM 
+
 Sreeja Tumati 
 
 # References
